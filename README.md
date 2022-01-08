@@ -64,4 +64,3 @@ My goal is to move to more standard API relying more only on QtQuickControls def
 * [MaterialDesignIcons](https://github.com/OlivierLDff/MaterialDesignSvgo)
 
 ![dependencies](./docs/dependencies.svg)
-# ToyQuickControl
